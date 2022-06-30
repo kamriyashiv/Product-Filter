@@ -33,3 +33,9 @@ img{
     grid-column-gap: 1.5em;
     padding: 2em 0;
 }
+
+@media (max-width:640px){
+	.Myflex{
+    display: block;
+	}
+}
